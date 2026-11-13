@@ -5,7 +5,7 @@ const dbconfig= {
     host:"localhost",
     user:"root",
     password:"",
-    database:"webshop",
+    database:"webshopp",
     port:3307
 }
 

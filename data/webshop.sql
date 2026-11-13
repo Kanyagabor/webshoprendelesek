@@ -1,11 +1,11 @@
 -- =====================================================
--- 32. feladat - Webshop rendelések (4 tábla)
+-- 32. feladat - webshopp rendelések (4 tábla)
 -- Importálás: phpMyAdmin -> Importálás -> ez a fájl
 -- Újra importálva visszaáll az eredeti állapot.
 -- =====================================================
 
-CREATE DATABASE IF NOT EXISTS `webshop` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci;
-USE `webshop`;
+CREATE DATABASE IF NOT EXISTS `webshopp` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci;
+USE `webshopp`;
 
 DROP TABLE IF EXISTS `tetelek`;
 DROP TABLE IF EXISTS `rendelesek`;
